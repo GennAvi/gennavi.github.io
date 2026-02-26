@@ -18,4 +18,4 @@ more
 more
 
 ##  Random Things
-<img src="assets/img/illustration.png" alt="An Illustration of Myself">
+<img src="../assets/img/illustration.png" alt="An Illustration of Myself">
