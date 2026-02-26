@@ -20,6 +20,11 @@ I am a fan of black music at large, particularly Hip-Hop, R&B, and Soul. I will 
 ## Hobbies
 more
 
+## Notable Things that Happened to Me
+I have opened a lock of another person in my gym by mistake. It had the exact same combination (it was not 1234 or 0000). 
+
+I have seen a polar bear in his habitat.
+
 ##  Some More Things
 My dear friends and colleagues Vincenzo Botta and <a href='https://danielefriolo.github.io/'>Daniele Friolo</a> gave me this illustration as a graduation gift. It is not AI generated (Artist: <a href='https://www.instagram.com/marlene.ttt/'>Marlene Tattoos</a>)
 <div align="center">
