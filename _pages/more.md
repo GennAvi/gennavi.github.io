@@ -21,10 +21,11 @@ I am a fan of black music at large, particularly Hip-Hop, R&B, and Soul. I will 
 more
 
 ## Notable Things that Happened to Me
-I have opened a lock of another person in my gym by mistake. It had the exact same combination (it was not 1234 or 0000). 
+1) I have opened a lock of another person in my gym by mistake. It had the exact same combination (it was not 1234 or 0000). This happens with about the same probability of being struck by a lightining in a 80-years span (<a href='https://www.weather.gov/safety/lightning-odds/'>source</a>).
 
-I have seen a polar bear in his habitat.
+2) I have seen a polar bear in his habitat (Svalbards).
+
 
 ##  Some More Things
 My dear friends and colleagues Vincenzo Botta and <a href='https://danielefriolo.github.io/'>Daniele Friolo</a> gave me this illustration as a graduation gift. It is not AI generated (Artist: <a href='https://www.instagram.com/marlene.ttt/'>Marlene Tattoos</a>)
-  <img src="../assets/img/illustration.png"" width="300" alt="An Illustration of Myself">
+  <img src="../assets/img/illustration.png"" alt="An Illustration of Myself">
