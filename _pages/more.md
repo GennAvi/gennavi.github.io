@@ -27,6 +27,4 @@ I have seen a polar bear in his habitat.
 
 ##  Some More Things
 My dear friends and colleagues Vincenzo Botta and <a href='https://danielefriolo.github.io/'>Daniele Friolo</a> gave me this illustration as a graduation gift. It is not AI generated (Artist: <a href='https://www.instagram.com/marlene.ttt/'>Marlene Tattoos</a>)
-<div align="center">
   <img src="../assets/img/illustration.png"" width="300" alt="An Illustration of Myself">
-</div>
