@@ -12,9 +12,11 @@ Hello! In this page, I'll tell you a bit more about myself :)
 
 
 ## Music 
-I am a fan of black music at large, particularly Hip-Hop, R&B, and Soul. From time to time, I will post an album that I have on rotation. Lately, I am listening a lot to Elmiene, a British-Sudanese R&B artist. Here is his last mixtape.
+I am a fan of black music, particularly Hip-Hop, R&B, and Soul. From time to time, I will post an album that I have on rotation. Lately, I am listening a lot to Elmiene, a British-Sudanese R&B artist. Here is his last mixtape.
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BxJvxb8JwACv4Ybm&amp;list=PLfiMt7r64XLmjNcJs4_JgIzKpW1Ow5b7b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Hobbies
 I collect coins, I think they are cool. I enjoy hiking, travelling, and eating.
