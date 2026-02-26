@@ -21,6 +21,6 @@ announcements:
 ---
 
 Ciao! I am Gennaro Avitabile, a postdoctoral researcher at <a href='https://software.imdea.org/'>IMDEA Software Institute</a> in Madrid (Spain) hosted by <a href='https://www.dariofiore.it/'>Dario Fiore</a>. In March 2023, I have obtained my PhD from the University of Salerno (Italy), my advisor was
- <a href='https://phd.uniroma1.it/web/IVAN-VISCONTI_nC5433_IT.aspx'>Ivan Visconti</a>. My research interests lie in both the theoretical and practical aspects of cryptography, with applications to security and privacy. You can find a list my works in my <a href='https://gennavi.github.io/publications/'>publications page</a>.
+ <a href='https://phd.uniroma1.it/web/IVAN-VISCONTI_nC5433_IT.aspx'>Ivan Visconti</a>. My research interests lie in both the theoretical and practical aspects of cryptography, with applications to security and privacy. You can find a list of my works in my <a href='https://gennavi.github.io/publications/'>publications page</a>.
 
 I was born in Pompei (yes, the city still exists), close to Naples (Italy). My favorite food is <a href='https://en.wikipedia.org/wiki/Neapolitan_pizza'>neapolitan pizza</a>.
