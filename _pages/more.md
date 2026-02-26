@@ -18,4 +18,7 @@ more
 more
 
 ##  Random Things
-<img src="../assets/img/illustration.png" alt="An Illustration of Myself">
+My dear friends and colleagues Vincenzo Botta and Daniele Friolo gave me this illustration as a graduation gift. It is not AI generated (artist:)
+<p align="center">
+  <img src="../assets/img/illustration.png"" width="300" alt="An Illustration of Myself">
+</p>
