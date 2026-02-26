@@ -12,7 +12,7 @@ If you need to cite one of my papers, I kindly ask you to cite the published ver
 <!-- _pages/publications.md -->
 <div class="publications">
   <header class="post-header">
-    <h1 class="post-title"> conferences</h1>
+    <h1 class="post-title"> Conferences</h1>
   </header>
 
   <article>
@@ -23,7 +23,7 @@ If you need to cite one of my papers, I kindly ask you to cite the published ver
 
 <div class="publications">
   <header class="post-header" style="margin-top:1.5cm;">
-    <h1 class="post-title"> journals </h1>
+    <h1 class="post-title"> Journals </h1>
   </header>
 
   <article>
@@ -34,7 +34,7 @@ If you need to cite one of my papers, I kindly ask you to cite the published ver
 
 <div class="publications">
   <header class="post-header" style="margin-top:1.5cm;">
-    <h1 class="post-title"> pre-prints </h1>
+    <h1 class="post-title"> Pre-prints </h1>
   </header>
 
   <article>
