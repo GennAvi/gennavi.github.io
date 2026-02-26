@@ -22,7 +22,7 @@ I collect coins, I think they are cool. I enjoy hiking, travelling, and eating.
 ## Notable Things that Happened to Me
 1) I have opened another person's padlock at the gym by mistake. It had the exact same combination as mine (it was not 1234 or 0000). This happens with about the same probability of being struck by a lightining in a 80-years span (<a href='https://www.weather.gov/safety/lightning-odds/'>source</a>).
 
-2) I have seen a polar bear in his habitat (Svalbards).
+2) I have seen a wild polar bear (Svalbards).
 
 
 ##  Some More Things
