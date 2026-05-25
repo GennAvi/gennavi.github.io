@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-05-25'
 papers:
   rJPEw20AAAAJ:IjCSPb-OGe4C:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'Sharing a Secret Anamorphically: Secret Shares Dressed Up as Signatures'
     year: '2026'
   rJPEw20AAAAJ:Tyk-4Ss8FVUC:
-    citations: 18
+    citations: 19
     title: Signature-based witness encryption with compact ciphertext
     year: '2024'
   rJPEw20AAAAJ:UeHWp8X0CEIC:
@@ -18,7 +18,7 @@ papers:
     title: Extendable threshold ring signatures with enhanced anonymity
     year: '2023'
   rJPEw20AAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 2
     title: Black-Box Timed Commitments from Time-Lock Puzzles
     year: '2024'
   rJPEw20AAAAJ:WF5omc3nYNoC:
@@ -32,7 +32,7 @@ papers:
   rJPEw20AAAAJ:YsMSGLbcyi4C:
     citations: 7
     title: 'The malice of ELFs: practical anamorphic-resistant encryption without random oracles'
-    year: '2025'
+    year: '2026'
   rJPEw20AAAAJ:_FxGoFyzp5QC:
     citations: 1
     title: 'Short paper: Rewardable naysayer proofs'
@@ -62,9 +62,9 @@ papers:
     title: Terrorist attacks for fake exposure notifications in contact tracing systems
     year: '2021'
   rJPEw20AAAAJ:ufrVoPGSRksC:
-    citations: 0
-    title: Lower Bounding Update Frequency in Short Accumulators and Vector Commitments
-    year: '2025'
+    citations: 1
+    title: Lower bounding update frequency in short accumulators and vector commitments
+    year: '2026'
   rJPEw20AAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: 'Provable Security: the Good, the Bad, and the Ugly'
