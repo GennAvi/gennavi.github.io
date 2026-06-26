@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-26'
 papers:
   rJPEw20AAAAJ:IjCSPb-OGe4C:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'Sharing a Secret Anamorphically: Secret Shares Dressed Up as Signatures'
     year: '2026'
   rJPEw20AAAAJ:Tyk-4Ss8FVUC:
-    citations: 19
+    citations: 20
     title: Signature-based witness encryption with compact ciphertext
     year: '2024'
   rJPEw20AAAAJ:UeHWp8X0CEIC:
