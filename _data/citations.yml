@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-08'
 papers:
   rJPEw20AAAAJ:IjCSPb-OGe4C:
     citations: 3
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: 'Sharing a Secret Anamorphically: Secret Shares Dressed Up as Signatures'
     year: '2026'
+  rJPEw20AAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Signature-based Witness Encryption with Compact Ciphertext
+    year: '2024'
   rJPEw20AAAAJ:Tyk-4Ss8FVUC:
     citations: 20
     title: Signature-based witness encryption with compact ciphertext
@@ -30,7 +34,7 @@ papers:
     title: Compact proofs of partial knowledge for overlapping CNF formulae
     year: '2025'
   rJPEw20AAAAJ:YsMSGLbcyi4C:
-    citations: 8
+    citations: 9
     title: 'The malice of ELFs: practical anamorphic-resistant encryption without random oracles'
     year: '2026'
   rJPEw20AAAAJ:_FxGoFyzp5QC:
