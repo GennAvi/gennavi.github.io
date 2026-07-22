@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-22'
 papers:
   rJPEw20AAAAJ:IjCSPb-OGe4C:
     citations: 3
@@ -50,7 +50,7 @@ papers:
     title: '! Traceable Extendable Threshold Ring Signatures and More'
     year: '2025'
   rJPEw20AAAAJ:qjMakFHDy7sC:
-    citations: 96
+    citations: 97
     title: Privacy and integrity threats in contact tracing systems and their mitigations
     year: '2022'
   rJPEw20AAAAJ:roLk4NBRz8UC:
@@ -62,7 +62,7 @@ papers:
     title: Efficient proofs of knowledge for threshold relations
     year: '2022'
   rJPEw20AAAAJ:u5HHmVD_uO8C:
-    citations: 22
+    citations: 24
     title: Terrorist attacks for fake exposure notifications in contact tracing systems
     year: '2021'
   rJPEw20AAAAJ:ufrVoPGSRksC:
