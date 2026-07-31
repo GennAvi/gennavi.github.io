@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-31'
 papers:
   rJPEw20AAAAJ:IjCSPb-OGe4C:
     citations: 3
@@ -22,9 +22,9 @@ papers:
     title: Extendable threshold ring signatures with enhanced anonymity
     year: '2023'
   rJPEw20AAAAJ:W7OEmFMy1HYC:
-    citations: 2
-    title: Black-Box Timed Commitments from Time-Lock Puzzles
-    year: '2024'
+    citations: 3
+    title: Black-box timed commitments from time-lock puzzles
+    year: '2025'
   rJPEw20AAAAJ:WF5omc3nYNoC:
     citations: 0
     title: Rewardable Naysayer Proofs
@@ -36,11 +36,11 @@ papers:
   rJPEw20AAAAJ:YsMSGLbcyi4C:
     citations: 9
     title: 'The malice of ELFs: practical anamorphic-resistant encryption without random oracles'
-    year: '2026'
+    year: '2025'
   rJPEw20AAAAJ:_FxGoFyzp5QC:
     citations: 1
     title: 'Short paper: Rewardable naysayer proofs'
-    year: '2025'
+    year: '2026'
   rJPEw20AAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Towards Secure E-Voting with Everlasting Privacy
@@ -62,7 +62,7 @@ papers:
     title: Efficient proofs of knowledge for threshold relations
     year: '2022'
   rJPEw20AAAAJ:u5HHmVD_uO8C:
-    citations: 24
+    citations: 25
     title: Terrorist attacks for fake exposure notifications in contact tracing systems
     year: '2021'
   rJPEw20AAAAJ:ufrVoPGSRksC:
