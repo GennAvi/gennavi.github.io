@@ -32,13 +32,5 @@ If you need to cite one of my papers, I kindly ask you to cite the published ver
 </div>
 
 
-<div class="publications">
-  <header class="post-header" style="margin-top:1.5cm;">
-    <h1 class="post-title"> Pre-prints </h1>
-  </header>
 
-  <article>
-    {% bibliography -f preprints %}
-  </article>
-</div>
 
