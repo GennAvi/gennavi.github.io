@@ -24,3 +24,5 @@ Ciao! I am Gennaro Avitabile, a Lecturer in Cyber Security in the <a href='https
  <a href='https://phd.uniroma1.it/web/IVAN-VISCONTI_nC5433_IT.aspx'>Ivan Visconti</a>. My research interests lie in both the theoretical and practical aspects of cryptography, with applications to security and privacy. You can find a list of my works in my <a href='https://gennavi.github.io/publications/'>publications page</a>.
 
 I was born in Pompei (yes, the city still exists), close to Naples (Italy). My favorite food is <a href='https://en.wikipedia.org/wiki/Neapolitan_pizza'>neapolitan pizza</a>.
+
+<b>PhD Students</b>: <a href='https://cybersecurity.unisg.ch/people/Wilson'> Wilson Tsuata (University of St. Gallen) <\a>. Co-supervision with <a href='https://cybersecurity.unisg.ch/people/Katerina'> Katerina Mitrokotsa <\a> and <a href='https://www.normalesup.org/~kynguyen/'>Ky Nguyen <\a> (since July 2026). 
