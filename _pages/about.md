@@ -25,4 +25,4 @@ Ciao! I am Gennaro Avitabile, a Lecturer in Cyber Security in the <a href='https
 
 I was born in Pompei (yes, the city still exists), close to Naples (Italy). My favorite food is <a href='https://en.wikipedia.org/wiki/Neapolitan_pizza'>neapolitan pizza</a>.
 
-<b>PhD Students</b>: <a href='https://cybersecurity.unisg.ch/people/Wilson'> Wilson Tsuata (University of St. Gallen) <\a>. Co-supervision with <a href='https://cybersecurity.unisg.ch/people/Katerina'> Katerina Mitrokotsa <\a> and <a href='https://www.normalesup.org/~kynguyen/'>Ky Nguyen <\a> (since July 2026). 
+<b>PhD Students</b>: <a href='https://cybersecurity.unisg.ch/people/Wilson'>Wilson Tsuata (University of St. Gallen)</a>. Co-supervision with <a href='https://cybersecurity.unisg.ch/people/Katerina'>Katerina Mitrokotsa</a> and <a href='https://www.normalesup.org/~kynguyen/'>Ky Nguyen </a> (since July 2026). 
