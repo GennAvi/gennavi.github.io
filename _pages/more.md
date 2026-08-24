@@ -24,7 +24,9 @@ I collect coins, I think they are cool. I enjoy hiking, travelling, and eating.
 ## Notable Things that Happened to Me
 1) I have opened another person's padlock at the gym by mistake. It had the exact same combination as mine (it was not 1234 or 0000). This happens with about the same probability of being struck by a lightning in a 80-years span (<a href='https://www.weather.gov/safety/lightning-odds/'>source</a>).
 
-2) I have seen a wild polar bear.
+2) I have seen a wild polar bear (Longyearbyen, Svalbard - ArticCrypt 2025).
+
+3) On August 12, 2026, I witnessed a total solar eclipse from the park by the church in Hontoria de Cerrato, a stunning small village of about 100 inhabitants near Palencia, Spain. These beautiful  <a href='https://evanzucker.smugmug.com/Photos-by-Date/2026/Spain-Total-Eclipse-July-30-August-20-2026/August-12-2026'>photos and videos<\a> are courtesy of Evan Zucker.
 
 
 ##  Some More Things
