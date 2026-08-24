@@ -26,7 +26,7 @@ I collect coins, I think they are cool. I enjoy hiking, travelling, and eating.
 
 2) I have seen a wild polar bear (Longyearbyen, Svalbard - ArticCrypt 2025).
 
-3) On August 12, 2026, I witnessed a total solar eclipse from the park by the church in Hontoria de Cerrato, a stunning small village of about 100 inhabitants near Palencia, Spain. These beautiful  <a href='https://evanzucker.smugmug.com/Photos-by-Date/2026/Spain-Total-Eclipse-July-30-August-20-2026/August-12-2026'>photos and videos<\a> are courtesy of Evan Zucker.
+3) On August 12, 2026, I witnessed a total solar eclipse from the park by the church in Hontoria de Cerrato, a stunning small village of about 100 inhabitants near Palencia, Spain. These beautiful  <a href='https://evanzucker.smugmug.com/Photos-by-Date/2026/Spain-Total-Eclipse-July-30-August-20-2026/August-12-2026'>photos and videos</a> are courtesy of Evan Zucker.
 
 
 ##  Some More Things
